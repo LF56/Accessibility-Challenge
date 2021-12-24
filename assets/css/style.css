@@ -3,11 +3,7 @@
     padding: 0;
     margin: 0;
 }
-
-body {
-    background-color: #d9dcd6;
-}
-
+/*header style starts*/
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -39,6 +35,12 @@ body {
 .header div ul li {
     display: inline-block;
     margin-left: 25px;
+}
+/*header style ends*/
+
+/*body style starts*/
+body {
+    background-color: #d9dcd6;
 }
 
 a {
@@ -128,7 +130,9 @@ p {
     margin-bottom: 20px;
     font-size: 36px;
 }
+/*body styles end*/
 
+/*footer styles start*/
 .footer {
     padding: 30px;
     clear: both;
@@ -139,3 +143,4 @@ p {
 .footer h4 {
     font-size: 20px;
 }
+/*footer styles end*/

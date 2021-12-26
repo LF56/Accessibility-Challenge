@@ -8,6 +8,9 @@ This week, you are given a starter code. Your job is to take a look at the given
 # Acceptance Criteria
 <img width="533" alt="Screen Shot 2021-12-25 at 7 10 39 PM" src="https://user-images.githubusercontent.com/94761193/147395948-3a2bda25-e151-4bcb-9a44-e1e19cd93b75.png">
 
+# Mock Up Image
+<img width="443" alt="Screen Shot 2021-12-25 at 7 19 37 PM" src="https://user-images.githubusercontent.com/94761193/147396113-a0fdbbd2-65eb-4774-9c10-050af7fce21c.png">
+
 ## Your Job
  You have been given the starting code. Now it's your job to make the necesary changes in order for this to be a fully functioning web page. Not only this, but condense the CSS file, so there is not as many repeated styles on the same page. Clone the starter code, and be able to upload and push this to your unique repository.
 
